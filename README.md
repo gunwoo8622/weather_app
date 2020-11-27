@@ -17,6 +17,7 @@ Learning React native by building weather app
 - Documents에서 폴더 생성  
   (bash) expo init projectname  
   blank or blank (TypeScript) or tabs (TypeScript)등등 나옴  
+  <img src="https://user-images.githubusercontent.com/63627481/100422996-a2f08500-30ce-11eb-9dde-68a8ad7dee1a.PNG" width="500" height="220">  
   blank 선택해서 처음부터 다 만들거다.  
   (bash) Enter  
   Your project is ready! 생성됨  
