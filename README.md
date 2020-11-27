@@ -2,6 +2,8 @@
 
 Learning React native by building weather app
 
+노마더코더 : https://nomadcoders.co/react-native-fundamentals
+
 - node(10버전 이상), npm(6버전 이상) 설치  
   npm은 node설치되면 자동으로 설치됨  
   (bash) node -v, npm -v
@@ -39,6 +41,6 @@ Learning React native by building weather app
 - react native는 js를 이용해 ios, android엔진에게  
   메세지를 보내준다. **브릿지처럼**
 - native의 component에 대해  
-  <view> 는 <div> 같은 것 view 안에 다 넣어야한다.  
-  웹에서 text를 넣을 때 <span> 을 쓰지만  
-  native에서 <text> 를 쓴다.
+  view 는 div 같은 것 view 안에 다 넣어야한다.  
+  웹에서 text를 넣을 때 span 을 쓰지만  
+  native에서 text 를 쓴다.
