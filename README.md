@@ -29,7 +29,7 @@ Learning React native by building weather app
   (bash) code .
 - **vscoede 터미널에서**  
   (bash) git remote add origin 깃헙주소https://github.com/gunwoo8622/weather_app
-- README.md 파일이 추가된다.
+- 깃헙에 있는 README.md 파일을 추가해준다.  
   (bash) git pull origin main --allow-unrelated-histories  
   셋업 끝!  
 - (bash) npm start  
