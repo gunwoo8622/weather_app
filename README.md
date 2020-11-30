@@ -36,7 +36,7 @@ Learning React native by building weather app
   새 창 열림 폰expo앱에 qr코드 찍으면 화면 바뀜  
   폰 앱으로 확인할 거라 Run on Android device/emulator 클릭  
   하면 vscode에서 building bundle 되고 앱에서 시작가능  
-  같은 wifi에서 작업하자  
+  **같은 wifi**에서 작업하자  
   <img src="https://user-images.githubusercontent.com/63627481/100425103-f2848000-30d1-11eb-977e-42e8b1a4341f.PNG" width="500" height="220">
 - live load  
   저장하면, 자동으로 리프레쉬되고, 변경된 사항 확인 가능
