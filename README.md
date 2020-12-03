@@ -53,6 +53,6 @@ Learning React native by building weather app
   native에서 text 를 쓴다.
 - 리액트 네이티브에서 레이아웃 규칙  
   웹사이트에서 flex 디폴트는 row(가로)지만  
-  **네이티브에서느 flex 디폴트는 column(세로)**이다.  
+  __네이티브에서는 flex 디폴트는 column(세로)__이다.  
   폰에서는 대부분 서로 아래로 되어있기 때문이다.  
   flex는 네이티브에서 작동하는 방식. 공간?을 의미
